@@ -1,0 +1,8 @@
+customer_id,email,first_name,last_name,signup_date,lifetime_value,status
+C-1001,aria@example.com,Aria,Mendez,2026-09-12,420.50,active
+C-1002, noah@example.com ,Noah,Kim,2026-09-13,180.00,active
+C-1003,ivy.example.com,Ivy,Ramos,2026-09-14,210.00,active
+C-1004,liam@example.com,Liam,Patel,not-a-date,95.00,inactive
+C-1005,emma@example.com,Emma,Santos,2026-09-16,,active
+C-1005,emma@example.com,Emma,Santos,2026-09-16,,active
+C-1006,oliver@example.com,Oliver,Jones,2026-09-17,310.20, active 
